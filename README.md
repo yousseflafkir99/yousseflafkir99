@@ -1,16 +1,43 @@
-## Hi there 👋
 
-<!--
-**yousseflafkir99/yousseflafkir99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Youssef Lafkir 👋
 
-Here are some ideas to get you started:
+### Aspiring Data Analyst | Aspiring Data Scientist
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile!
+
+I'm passionate about Data Analysis, Data Science, and Machine Learning.
+
+I'm currently learning how to transform raw data into useful insights through programming, statistics, and data visualization.
+
+## 🚀 Skills & Technologies
+
+- Python
+- Pandas & NumPy
+- Power BI
+- Statistics & Data Analysis
+- Machine Learning (Learning)
+
+## 📚 Currently Learning
+
+- Python for Data Analysis
+- SQL
+- Data Visualization
+- Machine Learning
+- Exploratory Data Analysis (EDA)
+
+## 🎯 My Goals
+
+- Improve my Python and SQL skills.
+- Develop real-world Data Analysis skills.
+- Create interactive Power BI dashboards.
+- Develop my Machine Learning knowledge.
+
+## 📫 Contact
+
+- Email: yousseflafkir163@gmail.com
+- GitHub: https://github.com/yousseflafkir99
+
+---
+
+⭐ Thanks for visiting my profile!
+
