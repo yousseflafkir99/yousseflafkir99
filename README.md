@@ -1,7 +1,7 @@
 
 # Hi, I'm Youssef Lafkir 👋
 
-### Aspiring Data Analyst | Aspiring Data Scientist
+###  Data Analyst | Aspiring Data Scientist
 
 Welcome to my GitHub profile!
 
